@@ -1,0 +1,5 @@
+conda list
+import numpy as np print("Version: \n", np.__version__) print("Author: \n"m np.__author__) print("Description: \n", n.__doc__)
+pip uninstall numpy  brew uninstall numpy
+pip install numpy
+pip freeze > requirements.txt
